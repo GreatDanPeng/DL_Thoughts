@@ -1,5 +1,7 @@
 # DL_Thoughts
-Dan's reading list with thoughts and reports of recent (2020-) deep learning methods in various fields...
+Dan's reading list with thoughts and reports of recent (2020-) deep learning methods in various fields... 
+
+Report Template is from ICCV, and critique format is mostly inspired by [**Gedas' Video Recognition Course**](https://sites.google.com/cs.unc.edu/unc-comp790-170-24f/paper-critiques?authuser=0)
 
 ## NLP
 - [Llama 3 (Jul. 2024)](LLM/Llama3.pdf)
