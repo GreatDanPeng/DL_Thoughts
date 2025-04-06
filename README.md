@@ -16,10 +16,13 @@ Dan's reading list with thoughts and reports of recent (2020-) deep learning met
 ### RAG
 - [RULE (NeurIPS 2024)](Medical/RAG/RULE.pdf)
 
-
 ### Protein Prediction
+- [Alphafold 3 (Nature 2024)](Medical/Protein/AF3.pdf)
 
 ### EHR
+
+### scRNA
+- [scGPT (Nature Methods 2024)](Medical/scRNA/scGPT.pdf)
 
 ## Video
 
