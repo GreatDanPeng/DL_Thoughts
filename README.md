@@ -1,5 +1,5 @@
 # DL_Thoughts
-Dan's reading list and report of recent (2020-) deep learning methods in various fields...
+Dan's reading list with thoughts and reports of recent (2020-) deep learning methods in various fields...
 
 ## Video
 
