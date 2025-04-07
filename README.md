@@ -43,7 +43,9 @@ Report Template is from ICCV, and critique format is mostly inspired by [**Gedas
 
 ### EHR
 - [LLEMR (NeurIPS 2024 Datasets Spotlight)](Medical/EHR/LLEMR.pdf)
-- [ECG Chat (Aug. 2024)](Medical/ECG/ECG-Chat.pdf)
+- [ECG Chat (Aug. 2024)](Medical/EHR/ECG-Chat.pdf)
+- [Med Flamingo (ML4H 2023)](Medical/EHR/MedFlamingo.pdf)
+- [LLaVA-Med (NeurIPS 2023 Datasets (Spotlight))](/Medical/EHR/LLaVA-Med.pdf)
 
 ### Pathology
 - [PLIP (Nature Medicine 2023)](Medical/Patho/PLIP.pdf)
